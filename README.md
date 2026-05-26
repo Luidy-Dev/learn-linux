@@ -7,8 +7,7 @@
 ---
 
 ## 📚 About
-
-This repository contains my solutions and notes while learning Linux fundamentals and command-line workflows.
+The max goal of this course is to build confidence using the Linux command line and understand how Linux systems work under the hood.
 
 ## 🧠 Topics Covered
 
@@ -37,3 +36,8 @@ learn-linux/
 ├── programs/
 ├── input-output/
 └── packages/
+```md
+---
+
+## 👨‍💻 Author
+Made by Luidy Henrique while studying Linux fundamentals and command-line workflows.
